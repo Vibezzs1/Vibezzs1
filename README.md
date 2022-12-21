@@ -24,8 +24,6 @@ Can Convert 3rd-party Addon/Assets to your server.
 
 Configure your server to add custom assets / addons.
 
-In FiveM itself I can;
-
 Create a FiveM server from scratch ( QB Only ).
 
 Properly install resources that you request me to.
